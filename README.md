@@ -1,27 +1,67 @@
-<img align="right" height="590em" src="./perfil.png"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Felipe Silva Bianchine</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pslipe&color=yellow" alt="Profile views" /> </p>
+# Olá! Eu sou o Felipe 👋
 
-- 🔥 Junior WEB Developer, constantly evolving and always working to build a more technological future.
+### Desenvolvimento de Software | Python | Backend | ADS
 
-- 🔭 I am currently looking for a professional outplacement and working as a freelance developer.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e Engenheiro Eletricista em transição para **Desenvolvimento de Software**.
 
-- 💬 Ask me about **JavaScript, React, TypeScript, HTML, CSS, SQL, Node.JS**
+Atualmente concentro meus estudos e projetos em **Python e desenvolvimento Backend**, construindo aplicações práticas para desenvolver experiência com programação, banco de dados, APIs, Git/GitHub, Docker e desenvolvimento de software.
 
-- ⚡ Fun fact **Oneye 😜**
+Minha experiência profissional anterior em Engenharia e Gestão de Projetos me trouxe uma base sólida em resolução de problemas, análise, planejamento e desenvolvimento de soluções para necessidades reais — competências que hoje também aplico no desenvolvimento de software.
 
-- 👨‍💻 More at [Instagram](https://www.instagram.com/pslipe/)
-<!--
-**pslipe/pslipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Projetos em destaque
 
-Here are some ideas to get you started:
+### 🏗️ Bot de Checklist de Obras
+Aplicação desenvolvida em **Python** para gerenciamento de pendências de obras através do Telegram.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Permite cadastrar, consultar e concluir pendências, incluindo informações como local, prioridade, prazo e fotografia.
+
+**Tecnologias:** Python • SQLite • Telegram Bot API • Docker • Fly.io
+
+🔗 [Ver projeto](https://github.com/pslipe/bot-checklist-obras)
+
+---
+
+### 🧶 Dengo
+Sistema para gerenciamento de pedidos personalizados de um ateliê de crochê e meu **Projeto de Extensão em Análise e Desenvolvimento de Sistemas**.
+
+Atualmente possui uma versão CLI desenvolvida em Python e será evoluído progressivamente para uma aplicação web completa.
+
+**Atualmente:** Python
+
+**Roadmap:** PostgreSQL • FastAPI • APIs REST • testes • Docker • React • CI/CD • IA
+
+🔗 [Ver projeto](https://github.com/pslipe/dengo)
+
+---
+
+### ⚡ Pokédex
+Aplicação web responsiva para consulta dos Pokémon da primeira geração através da **PokéAPI**.
+
+O projeto utiliza JavaScript para consumo de API REST e manipulação dinâmica dos dados apresentados na interface.
+
+**Tecnologias:** JavaScript • HTML • CSS • PokéAPI
+
+🔗 [Ver projeto](https://github.com/pslipe/pokedex)
+
+## 🛠️ Tecnologias e ferramentas
+
+**Utilizadas em projetos:**
+
+`Python` • `JavaScript` • `HTML` • `CSS` • `SQL` • `SQLite` • `Git` • `GitHub` • `Docker`
+
+**Em desenvolvimento:**
+
+`Backend` • `APIs REST` • `FastAPI` • `PostgreSQL` • `Testes Automatizados` • `React`
+
+## 🎯 Atualmente
+
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
+- 🐍 Aprofundando conhecimentos em **Python e Backend**
+- 🧶 Evoluindo o **Dengo** como principal projeto Full Stack
+- 🤖 Utilizando **IA como ferramenta de apoio ao desenvolvimento de software**
+- 💼 Buscando minha primeira oportunidade profissional em **Desenvolvimento de Software**
+
+## 📫 Contato
+
+- LinkedIn: [linkedin.com/in/pslipe](https://linkedin.com/in/pslipe)
+- GitHub: [github.com/pslipe](https://github.com/pslipe)
